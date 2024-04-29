@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    margin: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: #badfff;
+}
+label{
+    color: #badfff;
+}
+input{
+    border: none;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    text-align: center;
+    background: bisque;
+    color: black;
+}
+button{
+    border: none;
+    padding: 8px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    color: rgb(215 171 215);
+    background-color: rgb(59 52 59);
+}
+select{
+    border: none;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    text-align: center;
+    background: #badfff;
+    color: #000000;
+    padding: 5px;
+}
